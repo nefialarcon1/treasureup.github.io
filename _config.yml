@@ -94,7 +94,7 @@ author:
   name             : "Brendan Kingsford"
   avatar           : "/assets/images/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "I am an amazing person."
-  location         : "Santa Clara, CA"
+  location         : # "Santa Clara, CA"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"

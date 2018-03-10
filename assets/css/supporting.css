@@ -1,0 +1,18 @@
+.footer-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.big-quote {
+    line-height: 0;
+    margin: 30px 0 0 0;
+    font-family: 'Lily Script One', cursive;
+    font-size: 4em;
+}
+
+.footer-message {
+    text-align: center;
+    margin-top: 0;
+}

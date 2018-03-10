@@ -1,0 +1,73 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+$link-color: rgba(255, 82, 82, 0.87);
+
+.page__title {
+  color: $link-color;
+
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  margin-bottom: 35px;
+  font-size: 2em;
+}
+
+.page__inner-wrap {
+  padding-top: 25px;
+
+  &.is__bordered {
+    border-top-color: rgba(0, 0, 0, 0.4);
+    border-top: 2px solid;
+  }
+}
+
+.archive__item-title {
+  font-family: 'Roboto', sans-serif;
+}
+
+.greedy-nav .visible-links a:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 4px;
+  background: $link-color;
+  width: 100%;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  -webkit-transform: scaleX(0) translate3d(0, 0, 0);
+  transform: scaleX(0) translate3d(0, 0, 0)
+}
+
+.archive__item-title a {
+  color: $link-color;
+}
+
+.sidebar .author__name {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1em
+}
+.masthead__inner-wrap {
+  font-family: 'Roboto', sans-serif;
+}
+
+
