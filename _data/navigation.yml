@@ -1,0 +1,7 @@
+main:
+  - title: "Lessons"
+    url: /lessons/
+  - title: "Homework"
+    url: /homework/
+  - title: "Study Guide"
+    url: https://www.lds.org/manual/old-testament-class-member-study-guide?lang=eng

@@ -1,0 +1,14 @@
+---
+layout: archive
+permalink: /lessons/
+title: "Lessons"
+author_profile: # true
+---
+
+<ul>
+  {% for post in site.categories.lessons %}
+    {% if post.url %}
+        <li>{% include archive-single.html %}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
