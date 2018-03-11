@@ -16,6 +16,8 @@ What blessings did Abraham desire?
 
 [Abraham 2:1-5](https://www.lds.org/scriptures/pgp/abr/2.1-5?lang=eng#0)
 
+![abram-journeyed-from-ur-to-haran-to-canaan](https://user-images.githubusercontent.com/5561057/37256553-8aad0874-2519-11e8-8791-e95844f8bb00.jpg)
+
 ## Abraham’s Covenant
 
 [Abraham 2:6-11](https://www.lds.org/scriptures/pgp/abr/2.6-11?lang=eng#0)
