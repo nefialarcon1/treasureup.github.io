@@ -4,7 +4,7 @@ date:   2018-03-10 13:22:08 -0800
 categories: lessons old-testament
 ---
 
-Help class members understand the blessings and responsibilities of the Abrahamic covenant
+> This promise is yours also, because ye are of Abraham, and the promise was made unto Abraham; and by this law is the continuation of the works of my Father, wherein he glorifieth himself.
 
 ## Abraham's Goal
 
