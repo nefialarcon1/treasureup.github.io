@@ -76,7 +76,7 @@ The Joseph Smith Translation of the Bible says that Abraham “rejoiced” at th
 
 ### God Provides an Alternative
 
-![isaac saved](https://goo.gl/images/UnHPwz)
+![isaac saved](https://upload.wikimedia.org/wikipedia/commons/6/60/Sacrifice_of_Isaac-Caravaggio_%28Uffizi%29.jpg)
 
 [Genesis 22:11–13](https://www.lds.org/scriptures/ot/gen/22.11-13?lang=eng#11)
 
