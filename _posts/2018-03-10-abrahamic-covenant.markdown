@@ -1,5 +1,5 @@
 ---
-title:  "The Abrahamic Covenant"
+title:  "Lesson 7: The Abrahamic Covenant"
 date:   2018-03-10 13:22:08 -0800
 categories: lessons old-testament
 ---
