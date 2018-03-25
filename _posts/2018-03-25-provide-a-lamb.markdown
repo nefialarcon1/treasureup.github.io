@@ -54,7 +54,7 @@ Hagar's promises from the Lord
 
 [Genesis 17:17](https://www.lds.org/scriptures/ot/gen/17.17?lang=eng#17)
 
-The Bible says that Abraham “laughed” when he heard that Sarah would bear a son, an alternate translation of the Hebrew word is “rejoiced.” 
+The KJV Bible says that Abraham “laughed” when he heard that Sarah would bear a son, an alternate translation of the Hebrew word is “rejoiced.” 
 The Joseph Smith Translation of the Bible says that Abraham “rejoiced” at the news.
 
 
