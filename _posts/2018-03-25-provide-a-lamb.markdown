@@ -1,5 +1,5 @@
 ---
-title:  "God Will Provide Himself a Lamb"
+title:  "Lesson 9: God Will Provide Himself a Lamb"
 date:   2018-03-24 13:22:08 -0800
 categories: lessons old-testament
 ---
