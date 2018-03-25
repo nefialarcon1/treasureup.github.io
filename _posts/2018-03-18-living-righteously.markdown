@@ -1,5 +1,5 @@
 ---
-title:  "Living Righteously in a Wicked World"
+title:  "Lesson 8: Living Righteously in a Wicked World"
 date:   2018-03-16 13:22:08 -0800
 categories: lessons old-testament
 ---
