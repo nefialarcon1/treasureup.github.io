@@ -13,7 +13,7 @@ The study of this lesson will strengthen class members’ desires to live worthy
 
 Abraham wanted Isaac to marry someone of his own faith so he could marry in the covenant. This was necessary so the blessings of the Abrahamic covenant could be given to Abraham’s descendants.
 
-[Genesis 24: 2-4](https://www.lds.org/scriptures/ot/gen/24.2-4?lang=eng#2)
+[Genesis 24: 2-4](https://www.lds.org/scriptures/ot/gen/24.2-4?lang=eng#1)
 >2 And Abraham said unto his eldest servant of his house, that ruled over all that he had, Put, I pray thee, thy hand under my thigh:
 >
 >3 And I will make thee swear by the Lord, the God of heaven, and the God of the earth, that thou shalt not take a wife unto my son of the daughters of the Canaanites, among whom I dwell:
@@ -23,14 +23,14 @@ Abraham wanted Isaac to marry someone of his own faith so he could marry in the 
 
 ![old testament world](https://broadcast.lds.org/crowdsource/mobile/images/1506018/0d5e39f7c8664b75b445db9eeae1c2a9/2469x1755.png)
 
-[Genesis 24: 10, 14-15](https://www.lds.org/scriptures/ot/gen/24.10%2C14-15?lang=eng#10)
+[Genesis 24: 10, 14-15](https://www.lds.org/scriptures/ot/gen/24.10%2C14-15?lang=eng#9)
 >10 And the servant took ten camels of the camels of his master, and departed; for all the goods of his master werein his hand: and he arose, and went to Mesopotamia, unto the city of Nahor.
 >
 >14 And let it come to pass, that the damsel to whom I shall say, Let down thy pitcher, I pray thee, that I may drink; and she shall say, Drink, and I will give thy camels drink also: let the same be she that thou hast appointed for thy servant Isaac; and thereby shall I know that thou hast shewed kindness unto my master.
 >
 >15 And it came to pass, before he had done speaking, that, behold, Rebekah came out, who was born to Bethuel, son of Milcah, the wife of Nahor, Abraham’s brother, with her pitcher upon her shoulder.
 
-[Genesis 24:17-20](https://www.lds.org/scriptures/ot/gen/24.17-20?lang=eng#17)
+[Genesis 24:17-20](https://www.lds.org/scriptures/ot/gen/24.17-20?lang=eng#16)
 >17 And the servant ran to meet her, and said, Let me, I pray thee, drink a little water of thy pitcher.
 >
 >18 And she said, Drink, my lord: and she hasted, and let down her pitcher upon her hand, and gave him drink.
@@ -50,7 +50,7 @@ Abraham wanted Isaac to marry someone of his own faith so he could marry in the 
 
 Scriptural accounts of revelation tell mostly of God’s interactions with priesthood leaders, who were men. However, Genesis 25:22–23 contains an account of God giving revelation to a woman.
 
-[Genesis 25: 22-23](https://www.lds.org/scriptures/ot/gen/25.22-23?lang=eng#22)
+[Genesis 25: 22-23](https://www.lds.org/scriptures/ot/gen/25.22-23?lang=eng#21)
 >22 And the children struggled together within her; and she said, If it be so, why am I thus? And she went to inquire of the Lord.
 >
 >23 And the Lord said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger.
@@ -65,7 +65,7 @@ Scriptural accounts of revelation tell mostly of God’s interactions with pries
 
 Elder Bruce R. McConkie wrote: “It appears that anciently under the Patriarchal Order certain special blessings, rights, powers, and privileges—collectively called the birthright—passed from the father to his firstborn son. (Gen. 43:33.)
 
-[Genesis 25: 30-33](https://www.lds.org/scriptures/ot/gen/25.30-33?lang=eng#30)
+[Genesis 25: 30-33](https://www.lds.org/scriptures/ot/gen/25.30-33?lang=eng#29)
 >30 And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom.
 >
 >31 And Jacob said, Sell me this day thy birthright.
@@ -77,7 +77,7 @@ Elder Bruce R. McConkie wrote: “It appears that anciently under the Patriarcha
 
 ## Jacob marries Leah and Rachel in the covenant, and through him the Abrahamic covenant continues
 
-[Genesis 28:1–5; 29:1–28](https://www.lds.org/scriptures/ot/gen/28.1-5?lang=eng#1). One thing we can learn is that marriage in the covenant was very important to Jacob. He made a long journey to find a faithful woman to marry. He then worked for Laban for seven years before marrying Rachel and continued to work for him afterward.
+[Genesis 28:1–5; 29:1–28](https://www.lds.org/scriptures/ot/gen/28.1-5?lang=eng#0). One thing we can learn is that marriage in the covenant was very important to Jacob. He made a long journey to find a faithful woman to marry. He then worked for Laban for seven years before marrying Rachel and continued to work for him afterward.
 
 ### Modern Day Example
 
