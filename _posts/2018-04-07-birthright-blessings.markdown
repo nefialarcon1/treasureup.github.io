@@ -4,7 +4,7 @@ date:   2018-04-07 13:22:08 -0800
 categories: lessons old-testament
 ---
 
-Genesis 24-29
+[Genesis 24-29](https://www.lds.org/scriptures/ot/gen/24?lang=eng#0)
 
 The study of this lesson will strengthen class members’ desires to live worthy of their birthright blessings and of eternal marriage.
 
