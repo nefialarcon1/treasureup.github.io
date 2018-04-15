@@ -14,7 +14,7 @@ categories: lessons old-testament
 ## The Sons of Israel
 |---+---+---+---|
 | Leah | Bilhah | Zilpah | Rachel |
-|:-------------:|:-------------:|:-------------:|:-------------:|
+|:----:|:----:|:----:|:----:|
 | Reuben (1) | Dan (5) | Gad (7)| Joseph (11) |
 | Simeon (2) | Napthali (6)| Asher (8) | Benjamin (12)|
 | Levi (3) |   |   |   |
