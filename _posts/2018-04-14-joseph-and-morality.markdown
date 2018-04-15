@@ -12,6 +12,7 @@ categories: lessons old-testament
 > [Genesis 39:8-9](https://www.lds.org/scriptures/ot/gen/39?lang=eng#7)
 
 ## The Sons of Israel
+|---
 |    Leah     |    Bilhah       |   Zilpah    |  Rachel    |
 |:-------------:|:-------------:|:-------------:|:-------------:|
 | Reuben (1) | Dan (5) | Gad (7)| Joseph (11) |
