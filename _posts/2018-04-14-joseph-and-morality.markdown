@@ -4,7 +4,7 @@ date:   2018-04-14 13:22:08 -0800
 categories: lessons old-testament
 ---
 
-[Genesis 37 & 39](https://www.lds.org/scriptures/ot/gen/37?lang=eng#0)
+## [Genesis 37 & 39](https://www.lds.org/scriptures/ot/gen/37?lang=eng#0)
 
 > 8 But he refused, and said unto his master’s wife, Behold, my master wotteth not what is with me in the house, and he hath committed all that he hath to my hand;
 >
