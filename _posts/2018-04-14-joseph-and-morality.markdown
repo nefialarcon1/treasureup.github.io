@@ -12,15 +12,15 @@ categories: lessons old-testament
 > [Genesis 39:8-9](https://www.lds.org/scriptures/ot/gen/39?lang=eng#7)
 
 ## The Sons of Israel
-|---+---+---+---|
+
 | Leah | Bilhah | Zilpah | Rachel |
 |:----:|:----:|:----:|:----:|
 | Reuben (1) | Dan (5) | Gad (7)| Joseph (11) |
 | Simeon (2) | Napthali (6)| Asher (8) | Benjamin (12)|
-| Levi (3) |   |   |   |
-| Judah (4) |   |   |   |
-| Issachar (9) |   |   |   |
-| Zebulun (10) |   |   |   |
+| Levi (3) |  h |  h |  j |
+| Judah (4) |  h | h  |  h |
+| Issachar (9) |  h |  h |  h |
+| Zebulun (10) | h  |  h |  h |
 
 These sons are the patriarchs of the twelve tribes of Israel. (Minus Reuben who loses his birthright to Joseph)
 
