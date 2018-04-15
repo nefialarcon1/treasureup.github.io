@@ -12,7 +12,7 @@ categories: lessons old-testament
 > [Genesis 39:8-9](https://www.lds.org/scriptures/ot/gen/39?lang=eng#7)
 
 ## The Sons of Israel
-|  Leah       |   Bilhah         |  Zilpah     | Rachel     |
+|         |           |       |      |
 | :-------------: |:-------------:|:-------------:|:-------------:|
 | Reuben (1) | Dan (5) | Gad (7)| Joseph (11) |
 | Simeon (2) | Napthali (6)     | Asher (8) | Benjamin (12)|
@@ -40,8 +40,10 @@ These sons are the patriarchs of the twelve tribes of Israel. (Minus Reuben who 
 > 8 But he refused, and said unto his master’s wife, Behold, my master wotteth not what is with me in the house, and he hath committed all that he hath to my hand;
 >
 > 9 There is none greater in this house than I; neither hath he kept back any thing from me but thee, because thou art his wife: how then can I do this great wickedness, and sin against God?
+>
 > [Genesis 39:8-9](https://www.lds.org/scriptures/ot/gen/39?lang=eng#7)
 
+Joseph is thrown in prison. But he makes the best of it.
 
 > “[The] ability to turn everything into something good appears to be a godly characteristic. Our Heavenly Father always seems able to do this. Everything, no matter how dire, becomes a victory to the Lord. Joseph, although a slave and wholly undeserving of this fate, nevertheless remained faithful to the Lord and continued to live the commandments and made something very good of his degrading circumstances. People like this cannot be defeated."
 >
